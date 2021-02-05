@@ -4,3 +4,4 @@
 - Need to prepare and ready dataset
 - Setup Git repo
 - Code up till difference part
+- Have a meet tomorrow
