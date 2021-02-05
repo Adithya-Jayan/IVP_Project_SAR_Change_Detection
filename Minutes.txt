@@ -4,4 +4,8 @@
 - Need to prepare and ready dataset
 - Setup Git repo
 - Code up till difference part
+<<<<<<< HEAD
 - hello boys
+=======
+- Have a meet tomorrow
+>>>>>>> c47a5ce753d71319c6dc4912e5e025fad567dca4
