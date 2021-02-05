@@ -1,0 +1,6 @@
+---------------------------------------------------
+05-02-2021
+---------------------------------------------------
+- Need to prepare and ready dataset
+- Setup Git repo
+- Code up till difference part
